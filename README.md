@@ -6,7 +6,7 @@
 
 ## 🎓 Présentation
 
-Ce projet est un **assistant pédagogique intelligent** basé sur l'intelligence artificielle générative permettant aux étudiants d'interagir naturellement avec leurs supports de cours au format PDF.
+Ce projet est un **assistant pédagogique intelligent** basé sur l'intelligence artificielle générative permettant aux étudiants d'interagir naturellement avec leurs supports de cours au format PDF
 
 ### ✨ Fonctionnalités
 
